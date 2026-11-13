@@ -1,6 +1,6 @@
 name: Windows Cloud RDP
 
-on:
+"on":
   workflow_dispatch:
 
 jobs:
